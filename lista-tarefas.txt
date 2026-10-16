@@ -1,0 +1,6 @@
+1. Criar repositório local e inicializar com git init.
+2. Adicionar arquivos produtos.txt, tarefas.txt, informacoes.txt.
+3. Fazer commit inicial com mensagem "Adiciona arquivos iniciais".
+4. Modificar produtos.txt adicionando 2 produtos fictícios.
+5. Criar branch atualizacao-produtos e adicionar o produto novo.
+6. Enviar repositório para o GitHub e verificar arquivos e branch.

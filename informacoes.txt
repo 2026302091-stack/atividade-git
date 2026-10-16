@@ -1,4 +1,4 @@
-Aluno: Diogo da Silva Teixeira
-Disciplina: Introdução a informática
+Aluno: Seu Nome Aqui
+Disciplina: Exemplo de Git
 Data: 2026-10-16
 Descrição: Repositório de atividade demonstrando uso básico de git e GitHub.
